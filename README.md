@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jwhendren
+- 👋 Hi, I’m @james.hendren
 - 👀 I’m interested in sales at Tetrate
 - 🌱 I’m currently learning service mesh, istio, and envoy.
 - 💞️ I’m looking to collaborate on anyting Tetrate related
